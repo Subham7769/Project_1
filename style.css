@@ -1,0 +1,47 @@
+.Group1{
+    border: 1px solid black;
+    width: 1540.513px;
+    height: 613.544px;
+    flex-shrink: 0;
+    color: #000;
+font-family: Inter;
+font-size: 44px;
+font-style: normal;
+line-height: normal;
+}
+.link{
+    text-decoration: none;
+    color:black;
+}
+.Group2{
+    padding: 20px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+    width: 1051px;
+    height: 762px;
+    flex-shrink: 0;
+}
+.Group2-img{
+    padding: 20px;
+    width: 900px;
+    height: 600px;
+    padding: 20px;
+}
+.group2 a{
+    font-family: Inter;
+font-size: 44px;
+} 
+
+.group2 h1{
+font-size: 54px;
+} 
+.group3{
+    padding: 20px;
+
+    width: 1623px;
+    color: #000;
+font-family: Inter;
+font-size: 44px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
